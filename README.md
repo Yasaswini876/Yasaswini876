@@ -1,9 +1,8 @@
 Hi, I'm Yasaswini Surampudi 👋
 
-Full Stack Web Developer (Fresher) building with the MERN stack, currently deepening my skills in system design, cloud, and DevOps.
+Typing SVG
 
-LinkedIn : https://www.linkedin.com/in/yasaswinisurampudi/
-Email    : yasaswinisurampudi9@gmail.com 
+LinkedIn Email
 
 About
 
@@ -32,4 +31,6 @@ System Design · AI Integration · Docker & AWS · DevOps Fundamentals
 
 Let's Connect
 
-LinkedIn · Email
+  LinkedIn : https://www.linkedin.com/in/yasaswinisurampudi/
+  Email: yasaswinisurampudi9@gmail.com
+  
