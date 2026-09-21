@@ -39,6 +39,7 @@ Achievements
 
 Open to internships and entry-level opportunities. Feel free to reach out.
 
-LinkedIn · Email
+LinkedIn : https://www.linkedin.com/in/yasaswinisurampudi/
+Email   :yasaswinisurampudi9@gmail.com
 
 </div>
