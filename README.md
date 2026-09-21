@@ -1,52 +1,44 @@
 <div align="center">
+S. Yasaswini
 
-# Yasaswini Surampudi
-**Full Stack Web Developer** · MERN Stack
+B.Tech CSE (AI & ML) · Koneru Lakshmaiah University
 
-[![Typing SVG](https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=500&size=18&duration=3000&pause=1200&color=2F81F7&center=true&vCenter=true&width=460&lines=Building+with+React%2C+Node.js+%26+MongoDB;Learning+System+Design+and+Cloud)](https://git.io/typing-svg)
+Typing SVG
 
-[LinkedIn](https://www.linkedin.com/in/yasaswinisurampudi/) &nbsp;·&nbsp; [Email](mailto:yasaswinisurampudi9@gmail.com) &nbsp;·&nbsp; [GitHub](https://github.com/Yasaswini876)
+LinkedIn  ·  Email  ·  GitHub
 
-</div>
+</div> <br>
+About
 
-<br>
+I'm a Computer Science (AI & ML) undergraduate at Koneru Lakshmaiah University, Vijayawada, with a CGPA of 8.83/10. I work across full-stack web development, data structures & algorithms, and AI/ML concepts, and I've built projects ranging from an IoT-concept vending system to a student wellness platform. Currently exploring cloud computing and looking for opportunities to apply what I've learned.
 
-## About
+Skills
 
-I'm a fresher full stack developer building web applications with the MERN stack (MongoDB, Express, React, Node.js). I'm currently deepening my skills in system design, Docker, AWS, and DevOps fundamentals, and I'm looking for an internship or entry-level role where I can contribute and grow.
+Languages — C, Java, SQL Web & Databases — HTML, CSS, MySQL, PostgreSQL Tools & Platforms — Git, GitHub, VS Code, Figma, Canva, LaTeX Core Domains — Full-Stack Web Development, Data Structures & Algorithms, AI/ML Concepts, Cloud Computing
 
-## Skills
+Projects
 
-**Languages** — JavaScript, TypeScript, HTML, CSS
-**Frontend** — React, Next.js, Tailwind CSS
-**Backend** — Node.js, Express.js
-**Database** — MongoDB, MySQL
-**Tools** — Git, GitHub, Docker, AWS
+Remedy Rack — Smart Medicine Vending Machine Automated medicine vending solution designed to enhance 24/7 access to essential pharmaceuticals, with an intuitive workflow for product selection and secure dispensation. Selected as a Project Expo 2025 presenter. C Web Technologies IoT Concept
 
-## Projects
+Mental Health Support Platform Student-centric platform with wellness resource hubs and automated assistance-request mechanisms, with an empathetic, low-friction UI/UX designed in Figma. HTML CSS Web Development Figma Prototype
 
-**[E-Commerce Platform](https://github.com/Yasaswini876/repo-name)**
-Full stack e-commerce app with authentication, cart management, and an admin dashboard. Built with React, Node.js, Express, and MongoDB.
-[Live Demo](#) · [Source](https://github.com/Yasaswini876/repo-name)
+Learning Management System (LMS) Responsive web portal for course material distribution, assignment tracking, and instructor interaction, backed by a structured SQL database for enrollment and query handling. Java SQL HTML/CSS Source · Write-up
 
-**[Task Management App](https://github.com/Yasaswini876/repo-name)**
-Collaborative task tracker with drag-and-drop boards, real-time updates, and JWT-based authentication. Built with Next.js, TypeScript, and MongoDB.
-[Live Demo](#) · [Source](https://github.com/Yasaswini876/repo-name)
+Experience
 
-**[Personal Portfolio](https://github.com/Yasaswini876/repo-name)**
-Responsive developer portfolio built with React and Tailwind CSS to showcase projects and resume.
-[Live Demo](#) · [Source](https://github.com/Yasaswini876/repo-name)
+Google AI-ML Virtual Intern — EduSkills · 2025 Completed practical modules on foundational machine learning models, data preprocessing, and AI application frameworks.
 
-## Currently Learning
+Data Analytics Job Simulation — Deloitte · 2024 Analyzed complex datasets to extract business insights and built structured data visualizations for executive reporting.
 
-System Design · Docker & AWS · DevOps Fundamentals
+Achievements
+🏆 KLU Student Ideathon 2025 — Top 20 Finalist for the Mental Health Support Application
+🚀 Smart India Hackathon 2025 — Participant, building solutions for real-world challenge statements
+👥 Team Lead, KLU Hackathons — Led development of the LMS and a Virtual Art Gallery
+🎤 Community Lead, Student Clubs SVR — Led student initiatives and outreach programs
+<br> <div align="center">
 
-<br>
+Open to internships and entry-level opportunities. Feel free to reach out.
 
-<div align="center">
-
-*Open to internships and entry-level opportunities. Feel free to reach out.*
-
-[LinkedIn](https://www.linkedin.com/in/yasaswinisurampudi/) · [Email](mailto:yasaswinisurampudi9@gmail.com)
+LinkedIn · Email
 
 </div>
