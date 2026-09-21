@@ -1,46 +1,64 @@
-# Hi, I'm Yasaswini Surampudi 👋
+<div align="center">
+Yasaswini Surampudi
+Full Stack Web Developer · MERN Stack
 
-[![Typing SVG](https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=500&size=22&duration=3000&pause=1000&color=2F81F7&center=true&vCenter=true&width=600&lines=Full+Stack+Web+Developer;MERN+Stack+%7C+System+Design+%7C+Cloud;Open+to+Internships+%26+Entry-Level+Roles)](https://git.io/typing-svg)
+Typing SVG
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/yasaswinisurampudi/)
-[![Email](https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:yasaswinisurampudi9@gmail.com)
+LinkedIn Email GitHub
 
----
+</div> <br>
+🧑‍💻 About
 
-## About
+I'm a fresher full stack developer building clean, scalable web applications with the MERN stack. I'm currently deepening my skills in system design, Docker/AWS, and DevOps fundamentals — and looking for an internship or entry-level role where I can contribute and grow.
 
-I'm a fresher full stack developer focused on building clean, scalable web applications with the MERN stack (MongoDB, Express, React, Node.js). I'm currently expanding into system design, Docker/AWS, and DevOps fundamentals, and I'm looking for internship or entry-level opportunities where I can contribute and grow.
+<br>
+🛠️ Tech Stack
+<p align="left"> <img src="https://skillicons.dev/icons?i=js,ts,html,css,react,nextjs,nodejs,express,mongodb,mysql,tailwind,git,github,docker,aws,vscode&theme=dark" /> </p> <br>
+🚀 Featured Projects
+<table> <tr> <td width="50%" valign="top">
 
-## Tech Stack
+E-Commerce Platform Full stack e-commerce app with authentication, cart management, and an admin dashboard.
 
-**Languages:** JavaScript, TypeScript, HTML, CSS
-**Frontend:** React, Next.js, Tailwind CSS
-**Backend:** Node.js, Express.js
-**Database:** MongoDB, MySQL
-**Tools:** Git, GitHub, Docker, AWS, VS Code
+Show Image Show Image Show Image
 
-## Featured Projects
+🔗 Live Demo · 📂 Repo
 
-### [Project Name](https://github.com/Yasaswini876/repo-name)
-Full stack e-commerce platform with user authentication, cart management, and an admin dashboard.
-`React` `Node.js` `Express` `MongoDB` `Tailwind CSS`
-[Live Demo](#) · [Repo](https://github.com/Yasaswini876/repo-name)
+</td> <td width="50%" valign="top">
 
-### [Project Name](https://github.com/Yasaswini876/repo-name)
-Collaborative task tracker with drag-and-drop boards, real-time updates, and JWT-based authentication.
-`Next.js` `TypeScript` `MongoDB` `Express.js`
-[Live Demo](#) · [Repo](https://github.com/Yasaswini876/repo-name)
+Task Management App Collaborative task tracker with drag-and-drop boards, real-time updates, and JWT auth.
 
-### [Project Name](https://github.com/Yasaswini876/repo-name)
-Personal developer portfolio built to showcase projects, skills, and resume with smooth animations.
-`React` `Tailwind CSS` `Framer Motion`
-[Live Demo](#) · [Repo](https://github.com/Yasaswini876/repo-name)
+Show Image Show Image
 
-## Currently Learning
+🔗 Live Demo · 📂 Repo
 
-System Design · AI Integration · Docker & AWS · DevOps Fundamentals
+</td> </tr> <tr> <td width="50%" valign="top">
 
-## Let's Connect
+Personal Portfolio Modern, responsive developer portfolio with smooth animations.
 
-[LinkedIn](https://www.linkedin.com/in/yasaswinisurampudi/) · [Email](mailto:yasaswinisurampudi9@gmail.com)
-  
+Show Image Show Image
+
+🔗 Live Demo · 📂 Repo
+
+</td> <td width="50%" valign="top">
+
+Project Name One-line description of what this project does and why it matters.
+
+Show Image
+
+🔗 Live Demo · 📂 Repo
+
+</td> </tr> </table> <br>
+📊 GitHub Stats
+<div align="center"> <img src="https://github-readme-stats.vercel.app/api?username=Yasaswini876&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" width="49%" /> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Yasaswini876&layout=compact&theme=tokyonight&hide_border=true" width="35%" /> </div> <br>
+📚 Currently Learning
+
+Show Image Show Image Show Image Show Image
+
+<br> <div align="center">
+📬 Let's Connect
+
+LinkedIn Email
+
+Thanks for stopping by — always open to learning and collaborating.
+
+</div>
