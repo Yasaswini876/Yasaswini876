@@ -1,64 +1,52 @@
 <div align="center">
-Yasaswini Surampudi
-Full Stack Web Developer · MERN Stack
 
-Typing SVG
+# Yasaswini Surampudi
+**Full Stack Web Developer** · MERN Stack
 
-LinkedIn Email GitHub
+[![Typing SVG](https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=500&size=18&duration=3000&pause=1200&color=2F81F7&center=true&vCenter=true&width=460&lines=Building+with+React%2C+Node.js+%26+MongoDB;Learning+System+Design+and+Cloud)](https://git.io/typing-svg)
 
-</div> <br>
-🧑‍💻 About
+[LinkedIn](https://www.linkedin.com/in/yasaswinisurampudi/) &nbsp;·&nbsp; [Email](mailto:yasaswinisurampudi9@gmail.com) &nbsp;·&nbsp; [GitHub](https://github.com/Yasaswini876)
 
-I'm a fresher full stack developer building clean, scalable web applications with the MERN stack. I'm currently deepening my skills in system design, Docker/AWS, and DevOps fundamentals — and looking for an internship or entry-level role where I can contribute and grow.
+</div>
 
 <br>
-🛠️ Tech Stack
-<p align="left"> <img src="https://skillicons.dev/icons?i=js,ts,html,css,react,nextjs,nodejs,express,mongodb,mysql,tailwind,git,github,docker,aws,vscode&theme=dark" /> </p> <br>
-🚀 Featured Projects
-<table> <tr> <td width="50%" valign="top">
 
-E-Commerce Platform Full stack e-commerce app with authentication, cart management, and an admin dashboard.
+## About
 
-Show Image Show Image Show Image
+I'm a fresher full stack developer building web applications with the MERN stack (MongoDB, Express, React, Node.js). I'm currently deepening my skills in system design, Docker, AWS, and DevOps fundamentals, and I'm looking for an internship or entry-level role where I can contribute and grow.
 
-🔗 Live Demo · 📂 Repo
+## Skills
 
-</td> <td width="50%" valign="top">
+**Languages** — JavaScript, TypeScript, HTML, CSS
+**Frontend** — React, Next.js, Tailwind CSS
+**Backend** — Node.js, Express.js
+**Database** — MongoDB, MySQL
+**Tools** — Git, GitHub, Docker, AWS
 
-Task Management App Collaborative task tracker with drag-and-drop boards, real-time updates, and JWT auth.
+## Projects
 
-Show Image Show Image
+**[E-Commerce Platform](https://github.com/Yasaswini876/repo-name)**
+Full stack e-commerce app with authentication, cart management, and an admin dashboard. Built with React, Node.js, Express, and MongoDB.
+[Live Demo](#) · [Source](https://github.com/Yasaswini876/repo-name)
 
-🔗 Live Demo · 📂 Repo
+**[Task Management App](https://github.com/Yasaswini876/repo-name)**
+Collaborative task tracker with drag-and-drop boards, real-time updates, and JWT-based authentication. Built with Next.js, TypeScript, and MongoDB.
+[Live Demo](#) · [Source](https://github.com/Yasaswini876/repo-name)
 
-</td> </tr> <tr> <td width="50%" valign="top">
+**[Personal Portfolio](https://github.com/Yasaswini876/repo-name)**
+Responsive developer portfolio built with React and Tailwind CSS to showcase projects and resume.
+[Live Demo](#) · [Source](https://github.com/Yasaswini876/repo-name)
 
-Personal Portfolio Modern, responsive developer portfolio with smooth animations.
+## Currently Learning
 
-Show Image Show Image
+System Design · Docker & AWS · DevOps Fundamentals
 
-🔗 Live Demo · 📂 Repo
+<br>
 
-</td> <td width="50%" valign="top">
+<div align="center">
 
-Project Name One-line description of what this project does and why it matters.
+*Open to internships and entry-level opportunities. Feel free to reach out.*
 
-Show Image
-
-🔗 Live Demo · 📂 Repo
-
-</td> </tr> </table> <br>
-📊 GitHub Stats
-<div align="center"> <img src="https://github-readme-stats.vercel.app/api?username=Yasaswini876&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" width="49%" /> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Yasaswini876&layout=compact&theme=tokyonight&hide_border=true" width="35%" /> </div> <br>
-📚 Currently Learning
-
-Show Image Show Image Show Image Show Image
-
-<br> <div align="center">
-📬 Let's Connect
-
-LinkedIn Email
-
-Thanks for stopping by — always open to learning and collaborating.
+[LinkedIn](https://www.linkedin.com/in/yasaswinisurampudi/) · [Email](mailto:yasaswinisurampudi9@gmail.com)
 
 </div>
